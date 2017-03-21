@@ -1,0 +1,1 @@
+Your boss told you that [this](http://genius.web.easyctf.com) team has come up with the cryptographic hash of the future, but something about their operation just seems a little fishy.

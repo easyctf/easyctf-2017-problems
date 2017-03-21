@@ -1,0 +1,7 @@
+author: dududum561 & mzhang
+title: SQL Injection 2
+hint: The columns in the table are (not in order) username, password, power_level, and a unique id.
+category: Web
+autogen: false
+programming: false
+value: 150

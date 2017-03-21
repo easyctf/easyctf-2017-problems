@@ -1,0 +1,9 @@
+title: Doubly Dangerous
+author: arxenix
+hint: How are floating-point numbers represented?
+category: Binary Exploitation
+autogen: false
+programming: false
+value: 110
+files:
+  - doubly_dangerous

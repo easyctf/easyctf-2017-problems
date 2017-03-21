@@ -1,0 +1,1 @@
+My friend was out watching ogres when he heard a strange sound. Could you figure out what it means? [ogreman](${ogreman})

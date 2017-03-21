@@ -1,0 +1,9 @@
+author: GenericNickname
+title: Flag PEG
+hint: You're not looking deep enough
+category: Forensics
+autogen: false
+programming: false
+value: 150
+files:
+  - heresaflag.jpg

@@ -1,0 +1,11 @@
+author: mzhang
+title: Hello, world!
+hint: Having trouble? Check out our tutorial!
+category: Programming
+autogen: false
+programming: true
+value: 10
+
+test_cases: 1
+time_limit: 1
+memory_limit: 1024

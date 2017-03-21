@@ -1,0 +1,1 @@
+I've stumbled upon a very strange [QR code](${flag_png})... seems like it was generated with [this generator](http://hexqr.web.easyctf.com). What could it mean?

@@ -1,0 +1,9 @@
+author: GenericNickname
+title: Useless Python
+hint: I probably didn't write this by hand
+category: Reverse Engineering
+autogen: false
+programming: false
+value: 50
+files:
+  - useless.py

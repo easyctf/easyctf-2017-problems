@@ -1,0 +1,9 @@
+title: Diffie-cult
+author: nicebowlofsoup
+hint: Wikipedia explains Diffie-hellman pretty well.
+category: Cryptography
+autogen: false
+programming: false
+value: 140
+files:
+  - messages.txt

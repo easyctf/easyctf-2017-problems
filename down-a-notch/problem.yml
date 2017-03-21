@@ -1,0 +1,9 @@
+author: mzhang
+title: Down a Notch
+hint: Compiled with x86-64 gcc 4.9.4
+category: Programming
+autogen: false
+programming: false
+value: 100
+files:
+  - check

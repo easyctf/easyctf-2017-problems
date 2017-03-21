@@ -1,0 +1,1 @@
+We stumbled across another phunky Python file. Can you find the redacted value of jkx that makes [this program](${phunky2_py}) print `True`?

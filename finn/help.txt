@@ -1,0 +1,9 @@
+Everyone complains that my problems are too random. Fine. Here is EXACTLY how to solve this problem.
+
+1. Wow I have an image. I wonder why it’s so big (read: grandma, what large eyes you have)
+2. So I figured that part out. Great, there’s a password. I wonder what that has to do with this image. Or wait, I could just brute force it, right? Either way works. It’s called reading the problem description. Or even the title. Titles do matter.
+3. Yay, 2 images. What’s the difference? Hmmmm, I wonder what would happen if I expressed that difference pictorially. 
+4. Well I got some stuff, but it makes no sense. Oh wait, maybe I need a key! Let’s go back to that thing we extracted earlier, shall we? Maybe those discrepancies are ACTUALLY USEFUL. Nothing is an accident, not even random out of place pixels. Check them. Carefully.
+5. What do I do with this message and key? How about, the most obvious thing in every CTF ever. Seriously.
+
+So you got the flag. Congrats! See, it wasn’t that bad.

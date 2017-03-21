@@ -1,0 +1,9 @@
+title: Decode Me
+author: dududum561
+hint: Simple decoding :)
+category: Cryptography
+autogen: false
+programming: false
+value: 100
+files:
+  - encrypted_flag.txt

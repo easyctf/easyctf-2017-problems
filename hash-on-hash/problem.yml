@@ -1,0 +1,9 @@
+author: GenericNickname
+title: Hash On Hash
+hint: Thankfully you can solve this without even using a website.
+category: Cryptography
+autogen: false
+programming: false
+value:  100
+files:
+  - hexstrings.txt

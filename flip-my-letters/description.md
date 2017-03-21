@@ -1,0 +1,1 @@
+I dropped my alphabet on its head, can you help me reassemble it? `easyctf{r_wlmg_vevm_mvvw_zm_zhxrr_gzyov}`

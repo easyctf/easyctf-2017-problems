@@ -1,0 +1,10 @@
+author: GenericNickname
+title: Match Me
+hint: This is a fairly well-known graph problem. I would guess there is some sort of internet source on it.
+category: Programming
+autogen: false
+programming: false
+value: 300
+files:
+  - female_prefs.txt
+  - male_prefs.txt

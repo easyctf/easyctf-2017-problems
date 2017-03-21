@@ -1,0 +1,9 @@
+author: blockingthesky
+title: Kittycat
+category: Steganography
+hint: I used to have one cat, but now I have two.
+autogen: false
+programming: false
+value: 290
+files:
+  - kittycat.avi

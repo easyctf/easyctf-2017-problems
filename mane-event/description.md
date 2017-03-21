@@ -1,0 +1,1 @@
+My friend just got back from the plains and he took [this](${lion_jpg}) picture with his new camera. He also told me there's a flag hidden in it - can you check it out for me?

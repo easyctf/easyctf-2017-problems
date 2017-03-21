@@ -1,0 +1,9 @@
+author: blockingthesky
+title: Bizarro
+category: Forensics
+autogen: false
+programming: false
+value: 400
+hint: Red herrings are always a _touchy_ subject. Combine this hint with intel you find in the problem, throw in a blind guess, and perhaps you'll stumble into the answer.
+files:
+  - crpt.png

@@ -1,0 +1,9 @@
+author: GenericNickname
+title: Risky Business
+hint: I wonder how you could make a lot of money...
+category: Binary Exploitation
+autogen: false
+programming: false
+value: 100
+files:
+  - casino

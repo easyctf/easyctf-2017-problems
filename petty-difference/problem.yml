@@ -1,0 +1,10 @@
+title: Petty Difference
+author: dududum561
+hint: No hint
+category: Forensics
+autogen: false
+programming: false
+value: 75
+files:
+  - file1.txt
+  - file2.txt

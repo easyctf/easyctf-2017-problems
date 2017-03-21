@@ -1,0 +1,8 @@
+author: blockingthesky
+title: Lucky Guess
+category: Reverse Engineering
+autogen: false
+programming: false
+value: 200
+files:
+  - guess

@@ -1,0 +1,11 @@
+author: blockingthesky
+title: Things Add Up
+category: Programming
+autogen: false
+programming: true
+value: 15
+
+grader_language: python
+test_cases: 10
+time_limit: 1
+memory_limit: 256000

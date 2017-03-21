@@ -1,0 +1,4 @@
+In reality, the space junk will be following a very predictable orbit, around
+a polar function, which means that it will eventually be repeating as well.
+The trick is to just shoot a bunch of test ones and see how far off you miss.
+The pilot key simply identifies the team so they can enter the correct flag.

@@ -1,0 +1,10 @@
+title: Ogrewatch
+author: neptunia
+hint: If you're having trouble with the file format, Gary Kessler might help.
+category: Forensics
+autogen: false
+programming: false
+value: 100
+files:
+  - ogreman
+  

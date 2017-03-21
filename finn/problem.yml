@@ -1,0 +1,10 @@
+author: usrv
+title: Finn
+hint: In hindsight, numerical pins make really bad passwords . . . especially if they are pop culture references, also some pixels differ by more than one
+category: Forensics
+autogen: false
+programming: false
+value: 200
+files:
+  - finn.jpg
+  - help.txt

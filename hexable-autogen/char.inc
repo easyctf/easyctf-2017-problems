@@ -1,0 +1,84 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; Character defines
+	NULL	equ 0x00
+	BELL	equ 0x07
+	BSPC	equ 0x08
+	TAB		equ 0x09
+	ENDL 	equ 0x0A
+	CRET	equ 0x0D
+	
+	CHAR_0	equ 0x30
+	CHAR_1	equ 0x31
+	CHAR_2	equ 0x32
+	CHAR_3	equ 0x33
+	CHAR_4	equ 0x34
+	CHAR_5	equ 0x35
+	CHAR_6	equ 0x36
+	CHAR_7	equ 0x37
+	CHAR_8	equ 0x38
+	CHAR_9	equ 0x39
+	CHAR_A	equ 0x41
+	CHAR_B	equ 0x42
+	CHAR_C	equ 0x43
+	CHAR_D	equ 0x44
+	CHAR_E	equ 0x45
+	CHAR_F	equ 0x46
+	CHAR_G	equ 0x47
+	CHAR_H	equ 0x48
+	CHAR_I	equ 0x49
+	CHAR_J	equ 0x4a
+	CHAR_K	equ 0x4b
+	CHAR_L	equ 0x4c
+	CHAR_M	equ 0x4d
+	CHAR_N	equ 0x4e
+	CHAR_O	equ 0x4f
+	CHAR_P	equ 0x50
+	CHAR_Q	equ 0x51
+	CHAR_R	equ 0x52
+	CHAR_S	equ 0x53
+	CHAR_T	equ 0x54
+	CHAR_U	equ 0x55
+	CHAR_V	equ 0x56
+	CHAR_W	equ 0x57
+	CHAR_X	equ 0x58
+	CHAR_Y	equ 0x59
+	CHAR_Z	equ 0x5a
+	CHAR_a	equ 0x61
+	CHAR_b	equ 0x62
+	CHAR_c	equ 0x63
+	CHAR_d	equ 0x64
+	CHAR_e	equ 0x65
+	CHAR_f	equ 0x66
+	CHAR_g	equ 0x67
+	CHAR_h	equ 0x68
+	CHAR_i	equ 0x69
+	CHAR_j	equ 0x6a
+	CHAR_k	equ 0x6b
+	CHAR_l	equ 0x6c
+	CHAR_m	equ 0x6d
+	CHAR_n	equ 0x6e
+	CHAR_o	equ 0x6f
+	CHAR_p	equ 0x70
+	CHAR_q	equ 0x71
+	CHAR_r	equ 0x72
+	CHAR_s	equ 0x73
+	CHAR_t	equ 0x74
+	CHAR_u	equ 0x75
+	CHAR_v	equ 0x76
+	CHAR_w	equ 0x77
+	CHAR_x	equ 0x78
+	CHAR_y	equ 0x79
+	CHAR_z	equ 0x7a
+;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+macro resv c_size
+{
+	db c_size dup (0)
+}
+
+macro resv_stuff c_size
+{
+	repeat c_size
+		db % and 0xff
+	end repeat
+}

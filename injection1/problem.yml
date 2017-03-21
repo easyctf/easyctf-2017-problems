@@ -1,0 +1,7 @@
+author: mzhang
+title: SQL Injection 1
+hint: What does "injection" mean? How can you "inject" code into your username to control the username lookup?
+category: Web
+autogen: false
+programming: false
+value: 100

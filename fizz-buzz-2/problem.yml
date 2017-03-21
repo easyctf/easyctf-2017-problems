@@ -1,0 +1,12 @@
+title: Fzz Buzz 2
+category: Programming
+value: 200
+hint: Have fun!
+author: wresboy
+autogen: false
+programming: true
+
+grader_language: python
+test_cases: 8
+time_limit: 1
+memory_limit: 256000

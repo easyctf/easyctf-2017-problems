@@ -1,0 +1,10 @@
+title: Flag Collection
+author: neptunia
+hint: Looking through all these files must be a pain...
+category: Forensics
+autogen: false
+programming: false
+value: 80
+files:
+  - flags.zip
+  

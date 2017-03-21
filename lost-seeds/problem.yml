@@ -1,0 +1,10 @@
+title: Lost Seed
+author: mzhang
+category: Cryptography
+autogen: false
+programming: false
+value: 150
+files:
+  - encrypt
+  - flag.out
+  

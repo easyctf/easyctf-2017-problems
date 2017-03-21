@@ -1,0 +1,8 @@
+title: Serial
+category: Forensics
+value: 300
+hint: 010100110110010101110010011010010110000101101100001011100010111000101110
+author: wiresboy
+autogen: false
+files:
+  - serial.wav

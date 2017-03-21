@@ -1,0 +1,2 @@
+I've spent too long in the high level, let's take the level [down a notch](${check}). Help me find the correct input to this function!  
+Your answer should be in the format `a:b` where `a` and `b` are integers. Do **not** wrap it with `easyctf{}`.

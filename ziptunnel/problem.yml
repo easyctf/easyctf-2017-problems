@@ -1,0 +1,9 @@
+author: blockingthesky
+title: ZIP Tunnel
+category: Forensics
+hint: Whenever I go to Subway, I get double ham, wamerican, bacon, lettuce, and mayo. No frills.
+autogen: false
+programming: false
+value: 160
+files:
+  - level420.zip

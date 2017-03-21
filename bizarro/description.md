@@ -1,0 +1,1 @@
+Something seems very strange about [this](${crpt_png}) strange looking image. Check it out?

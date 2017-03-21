@@ -1,0 +1,9 @@
+title: QR 1
+author: wiresboy
+category: Forensics
+autogen: false
+programming: false
+value: 100
+hint: Is the image only black and white?
+files:
+  - qr1.bmp

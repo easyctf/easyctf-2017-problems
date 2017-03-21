@@ -1,0 +1,1 @@
+We intercepted a secret message, but we can't tell what it's saying. Maybe you can help? [super secret message](${listenclosely_wav})

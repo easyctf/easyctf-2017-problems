@@ -1,0 +1,11 @@
+author: blockingthesky
+title: Things Don't Add Up
+category: Programming
+autogen: false
+programming: true
+value: 210
+
+grader_language: java
+test_cases: 15
+time_limit: 1000
+memory_limit: 256000
